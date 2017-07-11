@@ -1,0 +1,15 @@
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+<class name="com.sathya.hibernate.model.Employee" table="emp">
+<id name="employeeNumber" column="empNo">
+<generator class="assigned" />
+</id>
+<property name="employeeName" column="eName" />
+<property name="employeeSalary" column="eSal" />
+<property name="deptNumber" column="deptno" />
+</class>
+</hibernate-mapping>
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 packages to &apos;TableperSubclass/src&apos;&#x0D;&#x0A;- Original project: &apos;TableperConcreteClass&apos;&#x0D;&#x0A;- Destination element: &apos;TableperSubclass/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     TableperConcreteClass/src/com.sathya.hibernate.config&#x0D;&#x0A;     TableperConcreteClass/src/com.sathya.hibernate.dao&#x0D;&#x0A;     TableperConcreteClass/src/com.sathya.hibernate.model&#x0D;&#x0A;     TableperConcreteClass/src/com.sathya.hibernate.util" description="Copy packages" destination="=TableperSubclass/src" element1="/src&lt;com.sathya.hibernate.config" element2="/src&lt;com.sathya.hibernate.dao" element3="/src&lt;com.sathya.hibernate.model" element4="/src&lt;com.sathya.hibernate.util" flags="589830" fragments="4" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1439054549642" version="1.0"/>
+</session>

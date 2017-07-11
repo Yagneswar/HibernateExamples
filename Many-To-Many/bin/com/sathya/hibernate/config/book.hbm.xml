@@ -1,0 +1,17 @@
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+<class name="com.sathya.hibernate.model.Book">
+<id name="bookId" column="bid"/>
+<property name="bookName" column="bname" length="12"/>
+<set name="authers" cascade="all" table="book_auther">
+<key column="bid_fk"/>
+<many-to-many class="com.sathya.hibernate.model.Auther" column="authid_fk"/>
+</set>
+
+
+
+</class>
+</hibernate-mapping>

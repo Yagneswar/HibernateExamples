@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;hibernate.cfg.xml&apos; to &apos;One-To-One-FK/src/com.sathya.hibernate.config&apos;&#x0D;&#x0A;- Original project: &apos;Many-To-Many&apos;&#x0D;&#x0A;- Destination element: &apos;One-To-One-FK/src/com.sathya.hibernate.config&apos;&#x0D;&#x0A;- Original element: &apos;hibernate.cfg.xml&apos;" description="Copy file" destination="=One-To-One-FK/src&lt;com.sathya.hibernate.config" element1="src/com/sathya/hibernate/config/hibernate.cfg.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1440696113051" units="0" version="1.0"/>
+</session>

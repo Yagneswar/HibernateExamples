@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Ehcache/src/chcache.xml&apos; to &apos;ehcache.xml&apos;" description="Rename resource &apos;chcache.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/chcache.xml" name="ehcache.xml" stamp="1442597341535" updateReferences="true"/>
+</session>

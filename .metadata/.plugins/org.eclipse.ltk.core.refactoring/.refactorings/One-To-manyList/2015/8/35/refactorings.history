@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.sathya.hibernate.util&apos; to &apos;One-To-One-FK/src&apos;&#x0D;&#x0A;- Original project: &apos;One-To-manyList&apos;&#x0D;&#x0A;- Destination element: &apos;One-To-One-FK/src&apos;&#x0D;&#x0A;- Original element: &apos;One-To-manyList/src/com.sathya.hibernate.util&apos;" description="Copy package" destination="=One-To-One-FK/src" element1="/src&lt;com.sathya.hibernate.util" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1440696043164" version="1.0"/>
+</session>
